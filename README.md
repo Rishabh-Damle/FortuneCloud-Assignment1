@@ -1,3 +1,3 @@
-# Name : Rishabh Damle
+# Assignment :
 
 ![Assignment Image](assests/image.jpeg)
